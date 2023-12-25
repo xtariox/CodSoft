@@ -1,0 +1,4 @@
+C:\Users\wissal\Desktop\C++\CodSoft\tas-2--Simple Calculator\Calculator\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\wissal\Desktop\C++\CodSoft\tas-2--Simple Calculator\Calculator\Debug\Calculator.MyForm.resources
+C:\Users\wissal\Desktop\C++\CodSoft\tas-2--Simple Calculator\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\wissal\Desktop\C++\CodSoft\tas-2--Simple Calculator\Calculator\Debug\Calculator.exe

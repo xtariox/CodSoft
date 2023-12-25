@@ -1,0 +1,79 @@
+# Compiled Object files
+.slo
+.lo
+.o
+.obj
+
+# Precompiled Headers
+.gch
+.pch
+
+# Compiled Dynamic libraries
+.so
+.dylib
+.dll
+
+# Fortran module files
+.mod
+.smod
+
+# Compiled Static libraries
+.lai
+.la
+.a
+.lib
+
+# Executables
+.exe
+.out
+.app
+
+# CMake files
+CMakeFiles
+CMakeCache.txt
+CMakeScripts
+Testing
+
+# Visual Studio Code directory
+.vscode
+
+# Sublime Text project files
+.sublime-project
+.sublime-workspace
+
+# Eclipse project files
+.settings
+.project
+.cproject
+
+# Xcode project files
+.xcodeproj
+.xcworkspace
+
+# Qt project files
+.pro.user
+.pro.user.
+.qbs
+.cmake
+
+# Package Files
+.7z
+.dmg
+.gz
+.iso
+.jar
+.rar
+.tar
+.zip
+
+# Logs and databases
+.log
+.sql
+.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+Desktop.ini
