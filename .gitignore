@@ -1,51 +1,107 @@
-# Compiled files
-*.o
-*.out
-*.exe
 
-# Object files
-*.obj
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+
+# Visual Studio files
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pdb
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.opensdf
+*.unsuccessfulbuild
+ipch/
+obj/
+
+# Nuget packages
+packages/
+*.nupkg
+
+# Misc
+*.Cache
+ClientBin/
+[Ss]tyle[Cc]op.*
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+node_modules/
+orleans.codegen.cs
+
+# C++ files
+*.o
+*.obj 
+*.exe
+*.dll
+*.lib
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
 
 # Precompiled Headers
+*.gch
 *.pch
 
-# Dynamic Libraries
+# Compiled Dynamic libraries
 *.so
 *.dylib
 *.dll
 
+# Fortran module files
+*.mod
+
 # Compiled Static libraries
-*.lib
+*.lai
+*.la
 *.a
+*.lib
 
-# Binary files
-*.bin
-*.zip
-*.rar
-*.tar.gz
+# Executables
+*.out
+*.app
 
-# Logs and databases
-*.log
-*.sql
-*.sqlite
-
-# Visual Studio Code directories
+# VS Code
 .vscode/
-
-# macOS specific files
-.DS_Store
-
-# Windows thumbnail cache files
-Thumbs.db
-
-# Compiled files from Visual Studio
-ipch/
-*.aps
-*.ncb
-*.opendb
-*.opensdf
-*.suo
-*.pdb
-
-# Sublime Text project files
-*.sublime-work
